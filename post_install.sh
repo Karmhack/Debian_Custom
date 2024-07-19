@@ -34,7 +34,7 @@ echo "MullvadVPN version $version has been installed." # Display the installed v
 ####################
 
 # You must check the link on the website first and change it if needed !!!!
-wget https://p-lux3.pcloud.com/cBZQGMwxUZhuVWap7ZZZVYFq7kZ2ZZzL5ZkZ5hhxVZcLZCFZbHZvRZVFZtFZwLZ1FZgRZTHZF4ZSLZRQZMRZ0AMJ0Z5jAFNHQYdmba63ajzQwi7XV2gC7V/pcloud
+wget https://p-lux3.pcloud.com/cBZcsG3gAZUAIbnL7ZZZY3abkkZ2ZZzL5ZkZ0qLxVZDLZ0HZw8Z6RZwRZYRZwpZrRZ5QZDQZt8ZEFZOpZjQZQDbs0ZoTXLLbucfCb4BYAzxfYE8L9jW7z7/pcloud
 chmod +x pcloud
 ./pcloud
 
